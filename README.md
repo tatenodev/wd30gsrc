@@ -1,4 +1,4 @@
-## 学習の備忘録
+## 学習の備忘録 &#x270d;
 - Twitter: [@paleDelphinium](https://twitter.com/paleDelphinium)
 - Gist: [https://gist.github.com/wd30gsrc](https://gist.github.com/wd30gsrc)
 
