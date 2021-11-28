@@ -1,4 +1,5 @@
 ## Note &#x270d;
+- Zenn: [pale_Delphinium](https://zenn.dev/pale_delphinium)
 - Twitter: [@paleDelphinium](https://twitter.com/paleDelphinium)
 - Gist: [https://gist.github.com/wd30gsrc](https://gist.github.com/wd30gsrc)
 
